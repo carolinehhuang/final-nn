@@ -1,3 +1,5 @@
+![BuildStatus](https://github.com/carolinehhuang/final-nn/actions/workflows/ci.yml/badge.svg)
+
 # Final project: neural network
 
 ## Overview
